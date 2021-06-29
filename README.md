@@ -1,3 +1,11 @@
+# Snake Game
+
+Snake Game is our childhood snake game which is created using React Js and deployed with Netlify.
+
+# Site link
+
+[https://snake-with-food-game.netlify.app/](https://snake-with-food-game.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
