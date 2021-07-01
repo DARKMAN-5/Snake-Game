@@ -4,8 +4,7 @@
 
 [https://snake-with-food-game.netlify.app/](https://snake-with-food-game.netlify.app/)
 
-GREEN Color -> Snake
-YELLOW Color -> Food
+GREEN Color -> Snake | YELLOW Color -> Food
 
 # Snake Game
 
